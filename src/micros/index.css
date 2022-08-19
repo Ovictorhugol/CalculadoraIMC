@@ -1,0 +1,7 @@
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  background: #f7b718;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+}

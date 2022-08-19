@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
-import InputRanger from "./micros/InputRanger";
-import Button from "./micros/Button";
+import InputRanger from "./micros/Input/InputRanger";
+import Button from "./micros/Button/Button";
 import { Container, Title, Text } from "./Page.styled";
 function Page() {
   const [valueWeight, setValueWeight] = useState();

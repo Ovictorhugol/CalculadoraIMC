@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Label, Input, Title, LabelText } from "./InputRanger.styled";
-import "./index.css";
+import "../../micros/index.css";
 function InputRanger({
   rangeMin,
   rangeMax,
